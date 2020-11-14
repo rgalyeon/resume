@@ -3,6 +3,7 @@
 
 * [Diving in Python](https://github.com/rgalyeon/diving_in_python) (Mail.Ru Group & ФРОО)
 * [Machine Learning and Data Analysis](https://github.com/rgalyeon/machine_learning_and_data_analysis) (Yandex & MIPT)
+* [LeetCode](https://github.com/rgalyeon/LeetCode_practice) (Examples of Python code)
 
 ### School 21 projects
 
